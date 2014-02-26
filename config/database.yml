@@ -1,0 +1,12 @@
+# config/database.yml
+
+development:
+  adapter: postgresql
+  database: mydb
+  username: master
+  password: XXXXXXXXXXXXXXX
+  host: mypostgresql.YYYYYYYYYYYY.eu-west-1.rds.amazonaws.com
+  pool: 5
+  timeout: 5000
+
+# test and production sections omitted

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  name: MyString
+  valid_from: 2014-02-26 20:26:25
+  valid_to: 2014-02-26 20:26:25
+  lock_version: 1
+
+two:
+  id: 
+  name: MyString
+  valid_from: 2014-02-26 20:26:25
+  valid_to: 2014-02-26 20:26:25
+  lock_version: 1
